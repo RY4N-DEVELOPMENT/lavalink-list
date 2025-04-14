@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Lavalink List",
     description: "A list of free and available public Lavalink nodes with their live status.",
-    creator: "@blacky",
+    creator: "@RY4N",
   },
   metadataBase: new URL("https://lavainfo.netlify.app/"),
 }
