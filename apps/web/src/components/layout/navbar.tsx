@@ -37,13 +37,13 @@ export default function NavBar() {
                 <div className="mx-5 flex h-15 max-w-screen-xl items-center w-full space-x-3 pointer-events-auto justify-end">
                     {/* github link */}
                     <Link
-                        href="https://github.com/appujet/lavalink-list"
+                        href="https://github.com/ghryanx7/lavalink-list"
                         className="flex items-center font-display text-2xl font-bold dark:text-white mr-2 lg:hover:scale-[1.10] duration-200"
                     >
                         <FontAwesomeIcon icon={faGithub as any} />
                     </Link>
                     <Link
-                        href="https://discord.gg/atS9JVKVne"
+                        href="https://discord.gg/W2GheK3F9m"
                         className="flex items-center font-display text-2xl font-bold dark:text-white lg:hover:scale-[1.10] duration-200"
                     >
                         <FontAwesomeIcon icon={faDiscord as any} />
